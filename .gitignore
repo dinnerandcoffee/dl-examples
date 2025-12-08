@@ -1,0 +1,12 @@
+*.pdf
+*.zip
+*.keras
+*.h5
+
+# Local datasets and generated artifacts
+data/
+
+# Notebook checkpoints and temporary files
+.ipynb_checkpoints/
+*.pyc
+__pycache__/
